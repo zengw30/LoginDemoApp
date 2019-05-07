@@ -9,4 +9,5 @@
     <string name="xinxi">恭喜你！登陆成功！！</string>
     <string name="loser">很遗憾，登录失败！</string>
     <string name="out">Logout</string>
+    <string name="sign">Welcome</string>
 </resources>
